@@ -21,7 +21,7 @@ Here’s a complete example showing encryption and decryption in Kotlin Multipla
 ```kotlin
 import kotlin.random.Random
 
-val key = "KPM-APIToEncryptDecryptAndReqRes"  // Key must be 32 bytes
+val key = "Amary-KMPEncryptDecryptAESReqRes"  // Key must be 32 bytes
 val message = "Hello, Kotlin Multiplatform!"
 
 // Encrypt the message
