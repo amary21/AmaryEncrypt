@@ -1,0 +1,16 @@
+PODS:
+  - encrypt (1.0)
+
+DEPENDENCIES:
+  - encrypt (from `../encrypt`)
+
+EXTERNAL SOURCES:
+  encrypt:
+    :path: "../encrypt"
+
+SPEC CHECKSUMS:
+  encrypt: 530887050842bcb2b40dee02c3db31ddb105bb8d
+
+PODFILE CHECKSUM: 09657979caddc69cdb8cc549808a5da49d44c00a
+
+COCOAPODS: 1.16.2
