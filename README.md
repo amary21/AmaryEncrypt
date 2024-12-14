@@ -33,13 +33,6 @@ val decryptedMessage = encryptedMessage?.decrypt(key)
 println("Decrypted: $decryptedMessage")
 ```
 
-### Expected Output
-
-```
-Encrypted: [Base64-encoded encrypted data]
-Decrypted: Hello, Kotlin Multiplatform!
-```
-
 ## Platform Support
 
 - **Android**: The encryption and decryption functions work seamlessly on Android.
